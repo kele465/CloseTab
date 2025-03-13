@@ -9,3 +9,6 @@ CloseTab
 下载 ZIP 压缩包 到本地
 解压文件，打开浏览器扩展程序界面，拖拽到页面添加，或者点击加载已解压的扩展程序
 使用说明
+
+from
+https://gitee.com/hongbin_chen/close-tab
